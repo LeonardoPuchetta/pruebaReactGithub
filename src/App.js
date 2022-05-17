@@ -6,10 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> app react para prueba en github 
+        <p> app react para prueba en github 2.0
         </p>
-        <p>Acabo de hacer estos cambios</p>
-        <p>Acabo de hacer estos cambios</p><p>Acabo de hacer estos cambios</p>
+       
         <a
           className="App-link"
           href="https://reactjs.org"
