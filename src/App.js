@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> app react para prueba en github 2.0
+        <p> app react para prueba en github 2.0.1
         </p>
        
         <a
